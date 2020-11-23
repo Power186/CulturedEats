@@ -2,8 +2,7 @@
 //  Menu.swift
 //  iDine
 //
-//  Created by Paul Hudson on 27/06/2019.
-//  Copyright © 2019 Hacking with Swift. All rights reserved.
+//  Created by Scott on 11/23/20.
 //
 
 import SwiftUI
